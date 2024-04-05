@@ -1,0 +1,14 @@
+C:\Users\posle\source\repos\PW4\PW4\bin\Debug\net8.0\PW4.exe
+C:\Users\posle\source\repos\PW4\PW4\bin\Debug\net8.0\PW4.deps.json
+C:\Users\posle\source\repos\PW4\PW4\bin\Debug\net8.0\PW4.runtimeconfig.json
+C:\Users\posle\source\repos\PW4\PW4\bin\Debug\net8.0\PW4.dll
+C:\Users\posle\source\repos\PW4\PW4\bin\Debug\net8.0\PW4.pdb
+C:\Users\posle\source\repos\PW4\PW4\obj\Debug\net8.0\PW4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\posle\source\repos\PW4\PW4\obj\Debug\net8.0\PW4.AssemblyInfoInputs.cache
+C:\Users\posle\source\repos\PW4\PW4\obj\Debug\net8.0\PW4.AssemblyInfo.cs
+C:\Users\posle\source\repos\PW4\PW4\obj\Debug\net8.0\PW4.csproj.CoreCompileInputs.cache
+C:\Users\posle\source\repos\PW4\PW4\obj\Debug\net8.0\PW4.dll
+C:\Users\posle\source\repos\PW4\PW4\obj\Debug\net8.0\refint\PW4.dll
+C:\Users\posle\source\repos\PW4\PW4\obj\Debug\net8.0\PW4.pdb
+C:\Users\posle\source\repos\PW4\PW4\obj\Debug\net8.0\PW4.genruntimeconfig.cache
+C:\Users\posle\source\repos\PW4\PW4\obj\Debug\net8.0\ref\PW4.dll
